@@ -12,4 +12,4 @@ Se activeaza pe tasta F2
 - Area-command e un script ce iti ofera posibilitatea de a executa comanezi automat la anumite coordonate prestabilite de tine.
 
 # b-hood-pin-bruteforce
-![alt text](https://raw.githubusercontent.com/Constantine94/Area-Command/main/area-command.png)
+![alt text](https://github.com/Constantine94/b-hood-pin-bruteforce/blob/main/pin.png)
