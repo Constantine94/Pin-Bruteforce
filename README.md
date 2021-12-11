@@ -1,19 +1,15 @@
 
 # Instalare
-1. Arhiva: https://drive.google.com/file/d/1aFnbBNsCo_5YG58lE9rHsYYaTvijw2C7/view
+1. Arhiva: https://drive.google.com/file/d/1IeN1XL_bdk28PNKs8NyxSO5Mauh86ADq/view?usp=sharing
 2. Se dezarhiveaza arhiva intr-un folder gol.
-Lua-Imgui: https://www.blast.hk/moonloader/files/misc/moon-imgui-1.1.5.zip
-Se descarca lib-ul Lua-Imgui, se dezarhiveaza, iar MoonImGui.dll si imgui.lua din dezarhivare, se adauga in folderul jocului, mai exact in /moonloader/lib/.
-3. Restul file-urilor de pe github se adauga in folderul `moonloader` al jocului.
+3. Se dezarhiveaza https://github.com/Constantine94/Area-Command/archive/refs/heads/main.zip in folder-ul `moonloader` din arhiva extrasa
 
 # Activare
-Se activeaza de pe tasta F2
+La intrarea in joc, se apasa ctrl-stanga si R simultan pentru a reîncărca script-ul
+Se activeaza pe tasta F2
 
 # Info
-- Bot-ul a fost facut acum mult timp in urma, dar in urma unor mici neantelegeri, am decis sa-l urc pe github. 
-- Posibil ca botul sa fie patched, sau nu, idk. Sursa e open-source, poate fi luata si modificata dupa bunul plac.
-- Bot-ul se auto-logheaza cu parola din `account.lua`, ca mai apoi sa incerce toate pinurile selectate de tine din interfata imgui.
-- Bot-ul se reconecteaza la fiecare `connection lost`.
+- Area-command e un script ce iti ofera posibilitatea de a executa comanezi automat la anumite coordonate prestabilite de tine.
 
 # b-hood-pin-bruteforce
-![alt text](https://github.com/Constantine94/b-hood-pin-bruteforce/blob/main/pin.png)
+![alt text](https://raw.githubusercontent.com/Constantine94/Area-Command/main/area-command.png)
