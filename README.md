@@ -9,7 +9,7 @@ La intrarea in joc, se apasa ctrl-stanga si R simultan pentru a reîncărca scri
 Se activeaza pe tasta F2
 
 # Info
-- Area-command e un script ce iti ofera posibilitatea de a executa comanezi automat la anumite coordonate prestabilite de tine.
+- Area-command e un script ce iti ofera posibilitatea de a trece peste protectia PIN a serverului B-Hood.
 
 # b-hood-pin-bruteforce
 ![alt text](https://github.com/Constantine94/b-hood-pin-bruteforce/blob/main/pin.png)
